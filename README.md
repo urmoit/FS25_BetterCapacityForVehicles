@@ -1,9 +1,5 @@
 # FS25_BetterCapacityForVehicles
 
-Also Let me know should i make fs22 version to?
-
-Youtube Video Soon
-
 The capacity is being adjusted based on what the community wants, ensuring it meets player expectations.
 More tractors, trailers, and vehicle capacities can be improved. Just let me know which vehicle’s capacity you’d like to see increased!
 
@@ -30,4 +26,4 @@ V1.0.2
 - Added GRIMME Ventor 4150 potato harvestor
 - Added SALEK ANS-1900 Cheapest Trailer in the game
 - Removed SIDEKICK RTVXG 850
-- Made every vehicle prices lower
+- Made every vehicle's prices cheaper.
